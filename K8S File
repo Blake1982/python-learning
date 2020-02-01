@@ -1,0 +1,8 @@
+
+资源清单：
+deployment
+ReplicaSet
+StatefulSet
+DaemonSet
+Job： 批量任务资源类型
+HPA ：水平自动扩展
